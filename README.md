@@ -18,13 +18,13 @@ The app features a clean UI, smooth UX, and secure authentication flow using **J
 ## 🖼️ Screenshots
 
 ### 👋 Welcome Screen
-![Welcome Screen](./assets/4e8057b3-5189-4fda-b551-83f60968eb19.png)
+![Welcome Screen](./assets/welcomepage.png)
 
 ### 🧍 Sign Up Page
-![Signup Page](./assets/3623f7a4-e358-4f94-ae8b-f7736cb56e62.png)
+![Signup Page](./assets/createaccount.png)
 
 ### ✅ Logged-In Dashboard
-![Dashboard Screenshot](./assets/dashboard.png)
+![Dashboard Screenshot](./assets/loginpage.png)
 
 ---
 
